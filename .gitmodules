@@ -1,0 +1,9 @@
+[submodule "vendors/stm32f0xx_hal_driver"]
+	path = vendors/stm32f0xx_hal_driver
+	url = https://github.com/STMicroelectronics/stm32f0xx_hal_driver
+[submodule "vendors/cmsis_core"]
+	path = vendors/cmsis_core
+	url = https://github.com/STMicroelectronics/cmsis_core
+[submodule "vendors/cmsis"]
+	path = vendors/cmsis
+	url = https://github.com/STMicroelectronics/cmsis_device_f0

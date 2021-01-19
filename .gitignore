@@ -1,0 +1,11 @@
+.idea/
+build/
+cmake*/
+Listings/
+Objects/
+*.scvd
+*.uvoptx
+*.uvguix.*
+JLink*
+DebugConfig/
+/Debug/
